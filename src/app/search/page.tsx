@@ -1,9 +1,12 @@
-import React from 'react'
+import React from 'react';
+import HeadingPage from '../../../components/heading/page';
 
 const SearchPage = () => {
   return (
-    <div>SearchPage</div>
-  )
-}
+    <div>
+      <HeadingPage />
+    </div>
+  );
+};
 
-export default SearchPage
+export default SearchPage;
