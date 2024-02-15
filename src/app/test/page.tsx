@@ -1,7 +1,7 @@
 import React from 'react';
 
 const TestPage = () => {
-  return <div>TestPage</div>;
+  return <div>Test Page</div>;
 };
 
 export default TestPage;
